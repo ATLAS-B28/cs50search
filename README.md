@@ -1,7 +1,8 @@
-# Project - 0 - Search 
-The first project from the CS50 web programming with Python and Javascript
+#CS50 Web 2023 Project 0 - Search
+## CS50 Web - Programming with Python and JavaScript
+## The first project from the CS50 web programming with Python and Javascript
 
-Specification - 
+### Specification - 
 The project has the  following requirements:
 
 The website has at least three pages: 
