@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Navbar-->
+    <ul class="nav_bar">
+        <li><a href="index.html">Back To Search</a></li>
+        <li><a href="image.html">Image Search</a></li>
+    </ul>
+    <!--Main Page-->
+    <div class="center">
+        <h1>Doogle</h1>
+        <!--Search Bar-->
+        <form action="https://google.com/search">
+          <table class="input-table">
+            <th><h4>Find pages with.....</h4></th>
+            <tr>
+                <td>All of these words: </td>
+                <td><input type="text" name="as_q" class="search_bar-sm"></td>
+            </tr>
+            <tr>
+                <td>This exact word or phrase: </td>
+				<td><input name="as_epq" type="text" class="search_bar-sm"></td>
+            </tr>
+            <tr>
+                <td>Any of these words: </td>
+                <td><input type="text" name="as_oq" class="search_bar-sm"></td>
+            </tr>
+            <tr>
+                <td>This exact words or phrases: </td>
+                <td><input type="text" name="as_epq" class="search_bar-sm"></td>
+            </tr>
+            <tr>
+                <td>None of these words: </td>
+                <td><input name="as_eq" type="text" class="search_bar-sm"> </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Advanced search" class="search_button"></td>
+            </tr>
+          </table>
+        </form>
+    </div>
+</body>
+</html>
