@@ -15,6 +15,7 @@ $ui-tags-hover: '.search_bar:hover, .search_bar:focus, .search_bar-sm:hover, .se
 body {
 	font-family: Futura, Trebuchet MS, Arial, san-serif;
 	color: $primary-text-colour;
+	cursor: pointer;
 }
 
 h1 {
@@ -84,6 +85,7 @@ h3 {
 	border-style: none;
 	margin: 11px 4px;
 	padding: 8px 16px;
+	cursor: pointer;
 }
 
 .input-table {
