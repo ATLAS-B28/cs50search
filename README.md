@@ -1,6 +1,16 @@
-#CS50 Web 2023 Project 0 - Search
+#CS50 Web 2023 Project 0 - Search App 'Doogle'
 ## CS50 Web - Programming with Python and JavaScript
 ## The first project from the CS50 web programming with Python and Javascript
+### Objective -
+The objective of such a project is to learn how to create a simple search application using CSS, HTML, and the Google search API. This helps us learn about the different web technologies like SCSS, HTML, CSS
+
+Here are some specific objectives of the project:
+
+1) Learn how to create a simple HTML form with a search bar and a submit button.
+2) Learn how to use CSS to style the text input field and the submit button.
+3) Learn how to use the Google search API to search for the query entered in the search bar.
+4) Learn how to render a list of search results in the HTML document.
+5) Learn about the different components of a search engine.
 
 ### Specification - 
 The project has the  following requirements:
